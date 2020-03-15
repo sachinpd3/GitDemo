@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="104987" started-at="2019-08-30T12:49:34Z" finished-at="2019-08-30T12:51:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="104987" started-at="2019-08-30T12:49:34Z" finished-at="2019-08-30T12:51:19Z">
+      <class name="rediff.TestCase">
+        <test-method status="PASS" signature="TestCase1(java.lang.String)[pri:0, instance:rediff.TestCase@6d78f375]" name="TestCase1" duration-ms="104924" started-at="2019-08-30T18:19:34Z" finished-at="2019-08-30T18:21:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+      </class> <!-- rediff.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
